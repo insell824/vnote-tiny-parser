@@ -1,0 +1,6 @@
+node_modules/
+input/**/*
+!input/README.md
+output/**/*
+!output/README.md
+package-lock.json
